@@ -2,7 +2,7 @@
 
 Brainless cartpole
 
-system structure : 
+system structure : open projectModel.drawio in https://app.diagrams.net/
 
 https://hub.docker.com/repository/docker/castpuz/selector
 
