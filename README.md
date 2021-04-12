@@ -2,7 +2,9 @@
 
 ## Brainless cartpole
 
-system structure : open projectModel.drawio in https://app.diagrams.net/
+> system structure
+
+open projectModel.drawio in https://app.diagrams.net/
 
 > Docker images
 
@@ -26,4 +28,3 @@ https://hub.docker.com/repository/docker/castpuz/lns
 
 https://youtu.be/8R4lfAMgGD4
 
-## 
