@@ -2,7 +2,7 @@
 
 ## Project list
 
-### Brainless cartpole robot - *in progress*
+### Brainless cartpole robot - *in progress: Applying Kubernetes*
 
 > system structure
 
