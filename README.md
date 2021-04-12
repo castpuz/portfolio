@@ -2,7 +2,7 @@
 
 ## Project list
 
-### Brainless cartpole robot
+### Brainless cartpole robot - **in progress**
 
 > system structure
 
