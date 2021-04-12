@@ -1,6 +1,6 @@
 # portfolio
 
-##Brainless cartpole
+## Brainless cartpole
 
 system structure : open projectModel.drawio in https://app.diagrams.net/
 
